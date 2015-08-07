@@ -5,3 +5,4 @@
 3. Additive - map over a range using an additive string in place of if else
 4. Number Theory - uses silly properties of base 10 numbers instead of modulus division
 5. Cycle - uses Array#cycle to iterate over the multiples of 3 and 5
+6. Recursive - recurses instead of enumeration monkey patch on integer
