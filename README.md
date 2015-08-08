@@ -12,6 +12,7 @@ Classic programming game and interview trope. Print the numbers from 1 to 100. I
 8. RubyGems - no need to re-invent the wheel
 9. Web Request - fetch fizzbuzz.txt down from a remote url
 10. Consensus - runs other fizzbuzz scripts and takes the most common answer
+11. Zip - uses array multiplication, Array#zip, and block call to gsub
 
 ## Testing
 Running `bundle exec rspec`, or just `bundle exec guard` will test all the files against fizzbuzz.txt
@@ -22,4 +23,3 @@ Running `bundle exec rspec`, or just `bundle exec guard` will test all the files
 * Thread Safe
 * Vector Composition
 * UnixSocket
-* Array#zip
