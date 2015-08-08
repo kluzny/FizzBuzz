@@ -1,4 +1,6 @@
 # FizzBuzz
+Classic programming game and interview trope. Print the numbers from 1 to 100. If the number is a multiple of 3, print `fizz` instead. If the number is a multiple of 5, print `buzz`. Should it be divisible by both, print `fizzbuzz`.
+
 ## Implementations
 1. Simplest - each loop over a range with an if else block
 2. Trivial - upto loop using the return value from an if else block
