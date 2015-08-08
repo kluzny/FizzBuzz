@@ -7,7 +7,7 @@ Classic programming game and interview trope. Print the numbers from 1 to 100. I
 3. Additive - map over a range using an additive string in place of if else
 4. Number Theory - uses silly properties of base 10 numbers instead of modulus division
 5. Cycle - uses Array#cycle to iterate over the multiples of 3 and 5
-6. Recursive - recurses instead of enumeration monkey patch on integer
+6. Recursive - recurses instead of enumeration and a monkey patch on integer
 7. Error Handling - uses a begin rescue until loop with custom errors
 8. RubyGems - no need to re-invent the wheel
 9. Web Request - fetch fizzbuzz.txt down from a remote url
