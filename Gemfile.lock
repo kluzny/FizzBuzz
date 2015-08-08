@@ -7,6 +7,7 @@ GEM
     coderay (1.1.0)
     diff-lcs (1.2.5)
     ffi (1.9.10)
+    fizzbuzz (0.0.2)
     formatador (0.2.5)
     guard (2.13.0)
       formatador (>= 0.2.4)
@@ -73,6 +74,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  fizzbuzz
   guard-rspec
   guard-rubocop
   rspec

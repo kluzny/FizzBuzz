@@ -9,6 +9,7 @@ Classic programming game and interview trope. Print the numbers from 1 to 100. I
 5. Cycle - uses Array#cycle to iterate over the multiples of 3 and 5
 6. Recursive - recurses instead of enumeration monkey patch on integer
 7. Error Handling - uses a begin rescue until loop with custom errors
+8. RubyGems - no need to re-invent the wheel
 
 ## Testing
 Running `bundle exec rspec`, or just `bundle exec guard` will test all the files against fizzbuzz.txt
@@ -18,7 +19,6 @@ Running `bundle exec rspec`, or just `bundle exec guard` will test all the files
 * Block Passing or Lambda
 * Thread Safe
 * Vector Composition
-* FizzBuzz gem
 * WebRequest
 * Consensus of script output
 * UnixSocket
