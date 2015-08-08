@@ -8,6 +8,7 @@ Classic programming game and interview trope. Print the numbers from 1 to 100. I
 4. Number Theory - uses silly properties of base 10 numbers instead of modulus division
 5. Cycle - uses Array#cycle to iterate over the multiples of 3 and 5
 6. Recursive - recurses instead of enumeration monkey patch on integer
+7. Error Handling - uses a begin rescue until loop with custom errors
 
 ## Testing
 Running `bundle exec rspec`, or just `guard` will test all the files against output.txt

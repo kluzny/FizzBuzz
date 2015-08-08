@@ -1,2 +1,11 @@
 Style/RegexpLiteral:
-  Enabled: false
+  Exclude:
+    - 'Guardfile'
+
+Style/InitialIndentation:
+  Exclude:
+    - 'fizz_buzz_2.rb'
+
+Lint/Loop:
+  Exclude:
+    - 'fizz_buzz_7.rb'
