@@ -12,3 +12,13 @@ Classic programming game and interview trope. Print the numbers from 1 to 100. I
 
 ## Testing
 Running `bundle exec rspec`, or just `guard` will test all the files against output.txt
+
+## Future FizzBuzz Ideas
+* Generic OOP
+* Block Passing or Lambda
+* Thread Safe
+* Vector Composition
+* FizzBuzz gem
+* WebRequest
+* Consensus of script output
+* UnixSocket
