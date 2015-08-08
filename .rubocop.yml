@@ -9,3 +9,7 @@ Style/InitialIndentation:
 Lint/Loop:
   Exclude:
     - 'fizz_buzz_7.rb'
+
+Style/StringLiterals:
+  Exclude:
+    - 'fizz_buzz_9.rb'

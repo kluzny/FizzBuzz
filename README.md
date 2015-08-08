@@ -10,6 +10,7 @@ Classic programming game and interview trope. Print the numbers from 1 to 100. I
 6. Recursive - recurses instead of enumeration monkey patch on integer
 7. Error Handling - uses a begin rescue until loop with custom errors
 8. RubyGems - no need to re-invent the wheel
+9. Web Request - fetch fizzbuzz.txt down from a remote url
 
 ## Testing
 Running `bundle exec rspec`, or just `bundle exec guard` will test all the files against fizzbuzz.txt
@@ -19,6 +20,5 @@ Running `bundle exec rspec`, or just `bundle exec guard` will test all the files
 * Block Passing or Lambda
 * Thread Safe
 * Vector Composition
-* WebRequest
 * Consensus of script output
 * UnixSocket
