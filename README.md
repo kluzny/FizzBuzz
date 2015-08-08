@@ -11,7 +11,7 @@ Classic programming game and interview trope. Print the numbers from 1 to 100. I
 7. Error Handling - uses a begin rescue until loop with custom errors
 
 ## Testing
-Running `bundle exec rspec`, or just `guard` will test all the files against fizzbuzz.txt
+Running `bundle exec rspec`, or just `bundle exec guard` will test all the files against fizzbuzz.txt
 
 ## Future FizzBuzz Ideas
 * Generic OOP
